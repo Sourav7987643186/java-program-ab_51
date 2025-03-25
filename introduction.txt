@@ -1,1 +1,5 @@
 My name is Sourav Bhattacharya
+
+
+git config --global user.email "bhattacharyasourav215@gmail.com"
+git config --global user.name "Sourav7987643186"
